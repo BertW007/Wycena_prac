@@ -1,0 +1,27 @@
+﻿Wyszczegolnienie,min,max
+"obiekty zabytkowe, rekonstrukcje, obiekty wymagający prowadzania robót konserwatorskich",20,40
+obiekty w strefie ochrony konserwatorskiej,5,10
+obiekty w strefach krajobrazu chronionego,5,10
+obiekty w parkach krajobrazowych,10,20
+obiekty na szkodach górniczych,10,20
+"obiekty na zboczach lub w sąsiedztwie skarp, osuwisk itp",5,10
+"obiekty wymagające fundamentów głębokich, specjalnych, posadowienia na palach lub specjalnych zabezpieczeń wykopów ze względu na zabudowę sąsiadującą lub napływ wody",5,10
+obiekty dające intensywność zabudowy działki pomiędzy 3 – 4,3,5
+obiekty dające intensywność zabudowy działki pomiędzy 4 – 5,5,10
+obiekty dające intensywność zabudowy działki powyżej 5,10,20
+dobudowy,10,15
+rozbudowy,15,20
+przebudowy,25,50
+modernizacje,25,50
+obiekty oddawane w użytkowanie etapowo (podział na etapy w ramach jedne-go obiektu),3,10
+zespoły obiektów oddawanych w użytkowanie etapowo,2,5
+jeśli wymagana jest klimatyzacja,5,8
+jeśli wymagana jest instalacja kontroli dostępu i dozoru,2,3
+jeśli wymagany jest system BMS,3,5
+jeśli wymagany jest projekt wnętrz,10,30
+jeśli wymagane są projekty indywidualnego umeblowania i wyposażenia,5,25
+jeżeli wymagane są, lub wynikają z projektu (np. konkursowego) projekty dzieł sztuki, będących integralną częścią projektu,5,25
+rozszerzenie zakresu specyfikacji o wymagania dotyczące materiałów, wyro-bów i standardów wykonania (właściwości wykonania) robót budowlanych o wymagania dotyczące sprzętu i maszyn, środków transportu, określenie za-sad kontroli, badań i odbioru wyrobów i robót budowlanych, określenie zasad rozliczania i obmiaru robót1,5,10
+opracowanie przedmiaru robót,3,5
+opracowanie kosztorysu,3,5
+opracowanie projektu zagospodarowania placu budowy,2,3
